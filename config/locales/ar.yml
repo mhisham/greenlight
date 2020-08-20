@@ -160,8 +160,8 @@ ar:
         username: اسم المستخدم
       title: إدارة المستخدمين
   add_to_google_calendar: "إضافة إلى تقويم Google"
-  BigBlueButton: ريادة
-  BigBlueButton_exception: عفوًا ، حدث خطأ عند بدء الاجتماع
+  bigbluebutton: ريادة
+  bigbluebutton_exception: عفوًا ، حدث خطأ عند بدء الاجتماع
   cancel: إلغاء
   cookies:
     cookie_info: ملفات تعريف الارتباط تساعدنا على تقديم خدماتنا. باستخدام خدماتنا ، أنت توافق على استخدامنا لملفات تعريف الارتباط.

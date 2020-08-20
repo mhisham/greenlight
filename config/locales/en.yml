@@ -210,8 +210,8 @@ en:
         username: Username
       title: Manage Users
   add_to_google_calendar: "Add to Google Calendar"
-  BigBlueButton: Ryada
-  BigBlueButton_exception: Oops, there was an error when starting the meeting!
+  bigbluebutton: Ryada
+  bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
     cookie_info: Cookies help us deliver our services. By using our services, you agree to our use of cookies.
