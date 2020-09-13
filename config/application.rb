@@ -134,7 +134,7 @@ module Greenlight
     # DEFAULTS
 
     # Default branding image if the user does not specify one
-    config.branding_image_default = "https://www.codebeam.dev/wp-content/uploads/2019/08/Untitled-6_03.png"
+    config.branding_image_default = "https://cis.codebeam.net/playback/presentation/2.0/logo.png"
 
     # Default primary color if the user does not specify one
     config.primary_color_default = "#01aeef"
